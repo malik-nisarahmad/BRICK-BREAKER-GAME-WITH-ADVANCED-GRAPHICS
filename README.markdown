@@ -66,7 +66,7 @@
 ## 🚀 **Get Smashing!**
 
 ### Requirements
-- **SFML 2.5.1+**  
+- **SFML 2.6.1+**  
 - **C++17** compatible compiler  
 - **CMake** (optional for builds)  
 
@@ -90,9 +90,10 @@
 
 ## 👨‍💻 **The Code Crafters**
 
-- **Rana Hanan Shafique (24I-3169)**: Physics genius behind ball dynamics and collisions.  
-- **Mohib Ahmad (24I-3101)**: Visual wizard crafting UI, particles, and the swirl cursor.  
-- **Nisar Ahmed (24I-3131)**: Logic mastermind powering game flow and power-ups.  
+- **Nisar Ahmad** 
+- **Rana Hanan Shafique**  
+- **Mohib Ahmad** 
+  
 
 ---
 
@@ -203,7 +204,3 @@ classDiagram
 **Brick Breaker Championship** is a love letter to arcade fans and code enthusiasts. With its vibrant visuals, buttery-smooth physics, and a cursor that feels alive, it’s a showcase of creativity and technical prowess. Whether you’re vibing in **Neon Surge** or battling in **Challenge** mode, this game delivers pure, unfiltered fun.
 
 **Ready to break the mold?** Clone the repo and start smashing! 🚀  
-
----
-
-*Built with 🔥 by Team404 for the Spring 2025 OOP Hackathon. Star us on GitHub! ⭐*
