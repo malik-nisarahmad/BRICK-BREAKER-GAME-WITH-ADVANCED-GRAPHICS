@@ -47,7 +47,7 @@ A modern reimagining of the classic arcade game, developed using **SFML (Simple 
 ## Installation
 
 ### Requirements
-- **SFML 2.5.1** or later
+- **SFML 2.6.1** or later
 - **C++17** compatible compiler
 - **CMake** (optional, for building)
 
@@ -68,9 +68,10 @@ A modern reimagining of the classic arcade game, developed using **SFML (Simple 
    ```
 
 ## Team Members
-- **Rana Hanan Shafique (24I-3169)**: Physics Engine & Collision Systems
-- **Mohib Ahmad (24I-3101)**: UI/UX Design & Particle Effects
-- **Nisar Ahmed (24I-3131)**: Game Logic & Power-Up Implementation
+- **Nisar Ahmad**:
+- **Rana Hanan Shafique**: 
+- **Mohib Ahmad**: 
+ 
 
 ## Technical Details
 
