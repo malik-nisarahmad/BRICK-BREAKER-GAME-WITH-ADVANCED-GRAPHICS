@@ -1,0 +1,105 @@
+﻿  GameManager.cpp
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(81,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(81,58): warning C4244:         with
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(81,58): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(81,58): warning C4244:             T=unsigned int
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(81,58): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(81,58): warning C4244:         and
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(81,58): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(81,58): warning C4244:             T=float
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(81,58): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(241,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(243,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(261,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(261,62): warning C4244:         with
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(261,62): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(261,62): warning C4244:             T=unsigned int
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(261,62): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(261,62): warning C4244:         and
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(261,62): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(261,62): warning C4244:             T=float
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(261,62): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,72): warning C4244:         with
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,72): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,72): warning C4244:             T=unsigned int
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,72): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,72): warning C4244:         and
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,72): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,72): warning C4244:             T=float
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,72): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,58): warning C4244:         with
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,58): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,58): warning C4244:             T=unsigned int
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,58): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,58): warning C4244:         and
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,58): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,58): warning C4244:             T=float
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(289,58): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(304,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(304,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(312,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(312,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(339,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(339,49): warning C4244:         with
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(339,49): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(339,49): warning C4244:             T=unsigned int
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(339,49): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(348,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(348,74): warning C4244:         with
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(348,74): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(348,74): warning C4244:             T=unsigned int
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(348,74): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(348,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(348,54): warning C4244:         with
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(348,54): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(348,54): warning C4244:             T=unsigned int
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(348,54): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,78): warning C4244:         with
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,78): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,78): warning C4244:             T=unsigned int
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,78): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,78): warning C4244:         and
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,78): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,78): warning C4244:             T=float
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,78): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,64): warning C4244:         with
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,64): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,64): warning C4244:             T=unsigned int
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,64): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,64): warning C4244:         and
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,64): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,64): warning C4244:             T=float
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(353,64): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(360,68): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(360,68): warning C4244:         with
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(360,68): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(360,68): warning C4244:             T=unsigned int
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(360,68): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(360,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(360,48): warning C4244:         with
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(360,48): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(360,48): warning C4244:             T=unsigned int
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(360,48): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,81): warning C4244:         with
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,81): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,81): warning C4244:             T=unsigned int
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,81): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,81): warning C4244:         and
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,81): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,81): warning C4244:             T=float
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,81): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,67): warning C4244:         with
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,67): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,67): warning C4244:             T=unsigned int
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,67): warning C4244:         ]
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,67): warning C4244:         and
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,67): warning C4244:         [
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,67): warning C4244:             T=float
+D:\Hackathon\Hackathon_Day2 - Copy\Project1\Project1\GameManager.cpp(365,67): warning C4244:         ]
+  Project1.vcxproj -> D:\Hackathon\Hackathon_Day2 - Copy\Project1\x64\Debug\Project1.exe
